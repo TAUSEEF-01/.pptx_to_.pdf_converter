@@ -25,5 +25,5 @@ def pptx_to_pdf(folder_path):
     
     powerpoint.Quit()
 
-folder_path = r'D:\Downloads\DUCSE Documents\2nd year\2-2\Mine\DBMS\Slides (6th Edition Book)\Chapter 8 - Relational Database' # enter your file path
+folder_path = r'D:\Downloads\DUCSE Documents\3rd year\Mine\3-1\CSE 3101 - Computer Networking\Theory\Slides' # enter your file path
 pptx_to_pdf(folder_path)
